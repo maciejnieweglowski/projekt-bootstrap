@@ -1,0 +1,151 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+#kontener1 {
+    background-image: (https://akademia108.pl/kurs-front-end/form-background.jpg);
+}
+
+#navbarNavAltMarkup {
+    justify-content: flex-end;
+}
+
+.navbar {
+    background-color: #444;
+}
+
+.navbar brand:hover {
+    color: white;
+}
+
+.sekcja2{
+    background-image: url(https://akademia108.pl/kurs-front-end/form-background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+h1{
+    color: white;
+    font-size: x-large ;
+    text-align: center;
+}
+
+h2{
+    color:white;
+    font-size: small;
+    text-align: center;
+
+}
+
+h3 {
+    color: white;
+    font-size: smaller;
+}
+
+.formularz {
+    justify-content: left;
+}
+
+#insidekontener {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: unset;
+    top: 100px;
+    border-radius: 5px;
+    padding: 15px 20px;
+}
+
+.submit{
+    background-color: orange;
+}
+
+#kontener2{
+    height: 750px;
+    align-items: left;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
+
+#szer {
+    width: 100%;
+    padding: 10px;
+    border
+}
+
+#zapisz {
+    background-color: orange;
+    width: 100%;
+    padding: 10px;
+    color: black;
+}
+
+.button {
+
+    text-align-last: center;
+
+}
+
+.sekcja3 {
+    padding-top: 250px;
+}
+
+.fa-pencil-alt {
+    color:white;
+}
+
+.pencil {
+    text-align: -webkit-right;s
+}
+
+.tekscior {
+    text-align: center;
+}
+
+.later, latertwo {
+    background-color: black;
+}
+
+.drugitekst {
+    color: black;
+    flex-wrap: wrap;
+}
+
+iframe {
+    padding: 20px 20px;
+    margin: auto;
+    width: 100%;
+}
+
+.paragraf {
+    color: black;
+    flex-wrap: wrap;
+}
+
+footer {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 60px;
+    }
+}
+
+.link{
+    text-align-last: center;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
